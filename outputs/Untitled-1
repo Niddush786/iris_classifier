@@ -1,0 +1,2 @@
+joblib.dump(model, 'outputs/model.joblib')
+plt.savefig('outputs/confusion_matrix.png')
